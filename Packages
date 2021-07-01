@@ -1,0 +1,13 @@
+Package: com.tweakvn.github.io
+Version: 3.0.4
+Priority: required
+Section: Utilities
+Essential: yes
+Maintainer: t <t@t.vn>
+Architecture: iphoneos-arm
+Filename: ./debs/1.deb
+Size: 1138274
+MD5sum: 3375f473c7cb597da471ec8057f46295
+Description: t
+Name: t
+Author: t <t@t.vn>
